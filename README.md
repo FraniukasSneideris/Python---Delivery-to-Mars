@@ -100,11 +100,11 @@ Choose a delivery type:
 1 - Small (30 days)  
 2 - Medium (45 days)  
 3 - Large (60 days)  
-Type: 1            # User input
+Type: 1            # USER INPUT
 
 👀 ..it seems there is a meteor shower, or maybe a solar flare, or a fuel leak..  
 🧐 Proceed without deviation (1) or with deviation (2)?  
-Choose: 2          # User input
+Choose: 2          # USER INPUT
 
 😎 Delivery successful! You earned one rocket!  
 Total rockets: 4
