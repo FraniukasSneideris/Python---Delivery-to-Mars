@@ -65,6 +65,7 @@ def run_game():
 
         print(f'Total rockets: {rockets}\n')
 
+        # Game progress
         if rockets == 0:
             print('💀 Game over! You ran out of rockets.')
         elif rockets == 1:
