@@ -55,7 +55,7 @@ The context of the exercise inspired me into creating a game where the objective
 
 ## 🎮 How to Play  
 1. **Download the Script:** Download *delivery_to_mars.py* from this repository.
-2. **Open the File**: Use on your prefered IDE (Integrated Development Environment).
+2. **Run the File**: Run with your prefered IDE (Integrated Development Environment).
 3. **Start the Game:** Run the script and follow the on-screen prompts. 
 4. **Choose Your Delivery Type:**  
     - `1`: Small Delivery (30 days)  
