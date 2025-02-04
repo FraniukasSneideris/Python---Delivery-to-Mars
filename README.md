@@ -54,18 +54,20 @@ def days_until_delivery(expected_delivery_dt, current_dt):
 The context of the exercise inspired me into creating a game where the objective is to send packages with rockets from the Earth to the Moon, simulating a delivery service.
 
 ## 🎮 How to Play  
-1. **Start the Game:** Run the script and follow the on-screen prompts.  
-2. **Choose Your Delivery Type:**  
+1. **Download the Script:** Download *delivery_to_mars.py* from this repository.
+2. **Open the File**: Use on your prefered IDE (Integrated Development Environment).
+3. **Start the Game:** Run the script and follow the on-screen prompts. 
+4. **Choose Your Delivery Type:**  
     - `1`: Small Delivery (30 days)  
     - `2`: Medium Delivery (45 days)  
     - `3`: Large Delivery (60 days)  
-3. **Navigate Space Hazards:**  
+5. **Navigate Space Hazards:**  
     - Random events may require fuel-depleting deviations.  
     - You can choose to proceed with or without deviation—both come with risks.  
-4. **Manage Your Rockets:**  
+6. **Manage Your Rockets:**  
     - Deliver successfully to earn rockets.  
     - Lose fuel and crash to lose them.  
-5. **Winning and Losing:**  
+7. **Winning and Losing:**  
     - Earn 8 rockets to win!  
     - Run out of rockets, and it's game over.  
 
