@@ -87,7 +87,7 @@ This game helps reinforce Python programming concepts such as:
 To run this project, you need Python 3.x installed  
 
 ## 🎯 Example Output  
-```python
+```bash
 Welcome to Delivery to Mars! 🚀  
 
 It is the year 2156, and Elon Musk's idea came true...  
